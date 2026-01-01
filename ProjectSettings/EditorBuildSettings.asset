@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/k.unity
     guid: 5abff6309ce2a83428b54dd254317fe7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Platform_Game.unity
     guid: d287fef18652ed3438441d51e00c90e0
+  - enabled: 1
+    path: Assets/Scenes/Fracral.unity
+    guid: 0e0efc75f4560594684980ba61d13ed9
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2a6d00d8968c3a3419258db450959019, type: 3}
   m_UseUCBPForAssetBundles: 0
